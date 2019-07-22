@@ -73,7 +73,8 @@ h2{
 .the-container{
 	min-height: 100vh;
     display: flex;
-    background: #F67615;
+    
+	background:#F67615 url("img/circularbg2.svg") no-repeat right top;
 }
 .profile-container{
 	    width: 100%;
